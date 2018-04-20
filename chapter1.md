@@ -38,7 +38,7 @@ key: 1be7e21a39
 
 
 `@pre_exercise_code`
-```{}
+```{python}
 import math from pi
 ```
 
