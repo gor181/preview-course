@@ -3,7 +3,7 @@ title: Insert title here
 key: d4ebda788a501e78c0401df6e09cc7ef
 
 ---
-## Title Slide
+## OK this is super great oh yeas!
 
 ```yaml
 type: TitleSlide
@@ -15,10 +15,8 @@ key: 4208522bfb
 
 
 `@lower_third`
-name: Name Surname
+name: Goran Udosic
 title: Instructor
-
-`@script`
 
 
 
@@ -35,8 +33,6 @@ key: 9bf700bda2
 
 
 
-
-`@script`
 
 
 

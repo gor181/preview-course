@@ -37,7 +37,10 @@ key: 1be7e21a39
 `@hint`
 
 
-
+`@pre_exercise_code`
+```{}
+import math from pi
+```
 
 
 
@@ -59,10 +62,6 @@ key: c0ebadd267
 
 
 
-`@instructions`
-
-
-`@hint`
 
 
 
@@ -88,17 +87,11 @@ key: 3f52ddee45
 
 
 
-`@hint`
 
 
 
 
 
-
-`@possible_answers`
-
-
-`@feedbacks`
 
 
 
