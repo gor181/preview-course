@@ -249,7 +249,7 @@ key: 0d1198e4bb
 ```yaml
 type: NormalExercise
 
-xp: 35
+xp: 50
 
 key: 1788feda6c
 ```
@@ -279,7 +279,7 @@ key: 1788feda6c
 ```yaml
 type: MultipleChoiceExercise
 
-xp: 35
+xp: 50
 
 key: b3352e4624
 ```
@@ -296,38 +296,6 @@ key: b3352e4624
 
 
 
-
-
-
-
-
-
-***
-
-
-
-```yaml
-type: PureMultipleChoiceExercise
-
-xp: 30
-
-key: f36c913eaa
-```
-
-
-
-
-`@hint`
-
-
-
-
-
-
-`@possible_answers`
-
-
-`@feedbacks`
 
 
 
