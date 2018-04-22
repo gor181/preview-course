@@ -5,20 +5,6 @@ description: >-
 
 
 ---
-## Video
-
-```yaml
-type: VideoExercise
-
-xp: 50
-
-key: 1d950c1599
-```
-
-`@projector_key`
-d4ebda788a501e78c0401df6e09cc7ef
-
----
 ## Normal
 
 ```yaml
@@ -31,14 +17,10 @@ key: 1be7e21a39
 
 
 
-`@instructions`
-
-
-`@hint`
 
 
 `@pre_exercise_code`
-```{python}
+```{undefined}
 import math from pi
 ```
 

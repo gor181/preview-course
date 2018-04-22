@@ -26,30 +26,6 @@ title: Instructor
 
 
 ---
-## full slide
-
-```yaml
-type: FullSlide
-key: 1cdb690448
-```
-
-`@part1`
-this is the first line {{1}}
-
-this is the second line {{2}}
-
-this is the third line {{3}}
-
-
-
-
-
-`@script`
-
-
-
-
----
 ## Final Slide
 
 ```yaml
