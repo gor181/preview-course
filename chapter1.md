@@ -285,8 +285,8 @@ type: VideoExercise
 
 xp: 50
 
-key: dc979b2351
+key: 345e6ba6fb
 ```
 
 `@projector_key`
-2b02fa86227354776578599f984c369b
+3d1eed868536617107ebd8064a26b0de
