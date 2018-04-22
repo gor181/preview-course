@@ -275,3 +275,18 @@ key: b3352e4624
 
 
 
+
+
+---
+## Insert exercise title here
+
+```yaml
+type: VideoExercise
+
+xp: 50
+
+key: dc979b2351
+```
+
+`@projector_key`
+2b02fa86227354776578599f984c369b
