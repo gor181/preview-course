@@ -323,3 +323,34 @@ print(pi)
 
 
 
+
+
+---
+## last
+
+```yaml
+type: NormalExercise
+
+xp: 100
+
+key: dcd32dac67
+```
+
+new
+
+`@instructions`
+
+
+`@hint`
+
+
+`@pre_exercise_code`
+```{undefined}
+import math from pi
+```
+
+
+
+
+
+
