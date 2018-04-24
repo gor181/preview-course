@@ -20,7 +20,7 @@ ok is this being deparsed? good save!
 
 
 `@pre_exercise_code`
-```{undefined}
+```{python}
 import math from pi
 ```
 
@@ -311,12 +311,12 @@ instructions
 hint
 
 `@pre_exercise_code`
-```{undefined}
+```{python}
 import math from pi
 ```
 
 `@solution`
-```{undefined}
+```{python}
 print(pi)
 ```
 
@@ -336,7 +336,7 @@ xp: 100
 key: dcd32dac67
 ```
 
-new
+changed?
 
 `@instructions`
 
@@ -345,7 +345,7 @@ new
 
 
 `@pre_exercise_code`
-```{undefined}
+```{python}
 import math from pi
 ```
 
