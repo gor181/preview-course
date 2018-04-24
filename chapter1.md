@@ -15,8 +15,12 @@ xp: 100
 key: 1be7e21a39
 ```
 
+ok is this being deparsed?
+
+`@instructions`
 
 
+`@hint`
 
 
 `@pre_exercise_code`
@@ -278,7 +282,7 @@ key: b3352e4624
 
 
 ---
-## Insert exercise title here
+## nice
 
 ```yaml
 type: VideoExercise
