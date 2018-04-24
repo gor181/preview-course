@@ -17,10 +17,6 @@ key: 1be7e21a39
 
 ok is this being deparsed? good save!
 
-`@instructions`
-
-
-`@hint`
 
 
 `@pre_exercise_code`
@@ -306,7 +302,7 @@ xp: 100
 key: 894faf2813
 ```
 
-normal ex
+normal ex now?
 
 `@instructions`
 instructions
