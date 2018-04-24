@@ -347,6 +347,8 @@ changed?
 `@pre_exercise_code`
 ```{python}
 import math from pi
+
+
 ```
 
 
