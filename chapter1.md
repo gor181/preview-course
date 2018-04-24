@@ -294,3 +294,36 @@ key: 345e6ba6fb
 
 `@projector_key`
 3d1eed868536617107ebd8064a26b0de
+
+---
+## Insert exercise title here
+
+```yaml
+type: NormalExercise
+
+xp: 100
+
+key: 894faf2813
+```
+
+normal ex
+
+`@instructions`
+instructions
+
+`@hint`
+hint
+
+`@pre_exercise_code`
+```{undefined}
+import math from pi
+```
+
+`@solution`
+```{undefined}
+print(pi)
+```
+
+
+
+
